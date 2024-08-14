@@ -1,4 +1,4 @@
-# City Predictor
+# City Recommender
 
 ## Abstact
 
