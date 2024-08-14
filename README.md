@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CMPT 353 - Final Project
 
 ## Contributors
@@ -31,3 +32,6 @@ python3 "Name of file"
     - User input into command line is required for num of data points on map.
 
 * *Program was built and tested using Linux OS*
+=======
+# City-Predictor
+>>>>>>> 8fdceacea5de3169a45e8961e628a41e9173dddf
