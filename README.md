@@ -1,5 +1,8 @@
 # City Predictor
 
+**Abstact**
+A company aims to build a new development and needs to identify the most suitable city that meets specific criteria such as high population, low elevation, and other relevant parameters. The objective of this project is to develop and utilize a machine-learning predictive model that can analyze various city attributes and recommend the best city globally for the company’s project based on the provided criteria.
+
 **Please View Video Demo (1m:18s)!**
 
 **[Link] (https://www.youtube.com/watch?v=SAnjm8y8Jd0)**
